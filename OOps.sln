@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inherit", "Inherit\Inherit.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Complie_methodOverloading", "Static_Complie_methodOverloading\Static_Complie_methodOverloading.csproj", "{943CFC7B-50AD-4CFE-B9AE-1058B799F7EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverRiding", "OverRiding\OverRiding.csproj", "{D9FDF9BF-BC7D-43DE-AA86-6F46D9BF743B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverRiding", "OverRiding\OverRiding.csproj", "{D9FDF9BF-BC7D-43DE-AA86-6F46D9BF743B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{1BF666D0-CDF3-4B2C-BFC6-B74F2E07AB27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D9FDF9BF-BC7D-43DE-AA86-6F46D9BF743B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9FDF9BF-BC7D-43DE-AA86-6F46D9BF743B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9FDF9BF-BC7D-43DE-AA86-6F46D9BF743B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF666D0-CDF3-4B2C-BFC6-B74F2E07AB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF666D0-CDF3-4B2C-BFC6-B74F2E07AB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF666D0-CDF3-4B2C-BFC6-B74F2E07AB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF666D0-CDF3-4B2C-BFC6-B74F2E07AB27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
